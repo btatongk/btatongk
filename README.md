@@ -6,7 +6,5 @@
 
 | Project | Description | Focus |
 | --- | --- | --- |
-| [Apartment Management System AI Integration](https://github.com/btatongk/Apartment-Management-System-Ai-Integration) | AI-assisted apartment operations, semantic search, maintenance analysis, and document intelligence | AI / Property Management |
 | [NPC in a Game](https://github.com/btatongk/NPC-in-a-game) | A command-line application that simulates conversations with a game NPC | Java / Game Development |
-| [EcoMobilityAssistant](https://github.com/btatongk/EcoMobilityAssistant) | Sustainable mobility assistant with AI-agent and MCP tooling | C# / AI / Sustainability |
-| [Cloud RAG Performance](https://github.com/btatongk/Cloud-Rag-Performance) | Evaluating Neural RAG and Internet RAG performance on AWS infrastructure | Jupyter Notebook / RAG |
+| [Apartment Management System AI Integration](https://github.com/btatongk/Apartment-Management-System-Ai-Integration) | AI-assisted apartment operations, semantic search, maintenance analysis, and document intelligence | AI / Property Management |
