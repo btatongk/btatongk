@@ -40,7 +40,16 @@ I’m a software engineer interested in AI-driven products, large language model
 
 | Language | Percentage |
 | --- | ---: |
-| Markdown | 100% |
+| C# | 17.6% |
+| C | 11.8% |
+| PHP | 11.8% |
+| Jupyter Notebook | 5.9% |
+| Java | 5.9% |
+| HTML | 5.9% |
+| C++ | 5.9% |
+| Other / Unknown | 35.3% |
+
+> Percentages are based on the primary language reported for each public repository (17 repositories) as of 2026-10-17.
 
 ## GitHub Stats
 
