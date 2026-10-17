@@ -45,8 +45,8 @@ I’m a software engineer interested in AI-driven products, large language model
 | Language | Percentage |
 | --- | ---: |
 | Markdown | 100% |
-| — | — |
-| — | — |
+| N/A | — |
+| N/A | — |
 
 ## GitHub Stats
 
