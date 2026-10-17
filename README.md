@@ -1,19 +1,15 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Brice+Tatong+%F0%9F%9A%80;AI+Engineer+%7C+LLM+%7C+RAG+%7C+Cloud" alt="typing banner" />
-</div>
-
 <h3 align="center">Welcome to my GitHub profile 👋</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/btatongk?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=btatongk&label=Profile+views&color=brightgreen" alt="Profile views" />
+  <img src="https://visitor-badge.laoca.ch/badge?page_id=btatongk.btatongk" alt="Profile views" />
 </p>
 
 ---
 
 ## About Me
 
-I’m a software engineer interested in AI-driven products, large language models, retrieval-augmented generation, and cloud-native solutions. I enjoy turning technical ideas into practical tools [...]
+I’m a software engineer interested in AI-driven products, large language models, retrieval-augmented generation, and cloud-native solutions. I enjoy turning technical ideas into practical tools and building reliable systems that scale.
 
 - 🔍 Building AI-powered search and automation systems
 - ☁️ Exploring cloud architectures and scalable deployments
@@ -24,7 +20,7 @@ I’m a software engineer interested in AI-driven products, large language model
 
 | Project | Description | Focus |
 | --- | --- | --- |
-| [Apartment Management System AI Integration](https://github.com/btatongk/Apartment-Management-System-Ai-Integration) | AI-assisted apartment operations, semantic search, maintenance analysis, an[...]
+| [Apartment Management System AI Integration](https://github.com/btatongk/Apartment-Management-System-Ai-Integration) | AI-assisted apartment operations, semantic search, maintenance analysis, and automation | AI + Ops |
 | [Cloud RAG Performance](https://github.com/btatongk/Cloud-Rag-Performance) | Evaluating Neural RAG and Internet RAG performance on AWS infrastructure | RAG + Cloud |
 | [More projects coming soon](https://github.com/btatongk) | Constantly exploring new ideas, tools, and practical AI applications | Research + Experimentation |
 
