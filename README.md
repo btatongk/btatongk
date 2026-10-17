@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Bryan+%F0%9F%9A%80;AI+Engineer+%7C+LLM+%7C+RAG+%7C+Cloud" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Brice+Tatong+%F0%9F%9A%80;AI+Engineer+%7C+LLM+%7C+RAG+%7C+Cloud" alt="typing banner" />
 </div>
 
 <h3 align="center">Welcome to my GitHub profile 👋</h3>
@@ -13,7 +13,7 @@
 
 ## About Me
 
-I’m a software engineer interested in AI-driven products, large language models, retrieval-augmented generation, and cloud-native solutions. I enjoy turning technical ideas into practical tools that improve workflow efficiency and decision-making.
+I’m a software engineer interested in AI-driven products, large language models, retrieval-augmented generation, and cloud-native solutions. I enjoy turning technical ideas into practical tools [...]
 
 - 🔍 Building AI-powered search and automation systems
 - ☁️ Exploring cloud architectures and scalable deployments
@@ -24,7 +24,7 @@ I’m a software engineer interested in AI-driven products, large language model
 
 | Project | Description | Focus |
 | --- | --- | --- |
-| [Apartment Management System AI Integration](https://github.com/btatongk/Apartment-Management-System-Ai-Integration) | AI-assisted apartment operations, semantic search, maintenance analysis, and intelligent workflow support | AI + Operations |
+| [Apartment Management System AI Integration](https://github.com/btatongk/Apartment-Management-System-Ai-Integration) | AI-assisted apartment operations, semantic search, maintenance analysis, an[...]
 | [Cloud RAG Performance](https://github.com/btatongk/Cloud-Rag-Performance) | Evaluating Neural RAG and Internet RAG performance on AWS infrastructure | RAG + Cloud |
 | [More projects coming soon](https://github.com/btatongk) | Constantly exploring new ideas, tools, and practical AI applications | Research + Experimentation |
 
@@ -37,7 +37,16 @@ I’m a software engineer interested in AI-driven products, large language model
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/.NET%20C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET C#" />
 </p>
+
+## Languages
+
+| Language | Percentage |
+| --- | ---: |
+| Markdown | 100% |
+| — | — |
+| — | — |
 
 ## GitHub Stats
 
