@@ -9,7 +9,7 @@
 
 ## About Me
 
-I’m a software engineer interested in AI-driven products, large language models, retrieval-augmented generation, and cloud-native solutions. I enjoy turning technical ideas into practical tools and [...]
+I’m a software developer interested in AI-driven products, large language models, retrieval-augmented generation, and cloud-native solutions. I enjoy turning technical ideas into practical tools and [...]
 
 - 🔍 Building AI-powered search and automation systems
 - ☁️ Exploring cloud architectures and scalable deployments
@@ -35,17 +35,6 @@ I’m a software engineer interested in AI-driven products, large language model
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/.NET%20C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET C#" />
 </p>
-
-## Languages
-
-| Language | Percentage |
-| --- | ---: |
-| C# | 17.6% |
-| C | 11.8% |
-| PHP | 11.8% |
-| Jupyter Notebook | 5.9% |
-
-> Top 4 primary languages based on public repository counts.
 
 ## GitHub Stats
 
